@@ -1,4 +1,4 @@
-# monchauffeur_privacy policy
+# gerayo_privacy policy
 
 # Privacy Policy for gerayo Mobile App
 This Privacy Policy describes how gerayo ("we," "us," or "our") collects, uses, and shares information about you when you use the gerayo mobile application (the "App"). By using the App, you consent to the collection, use, and disclosure of your information as described in this Privacy Policy.
